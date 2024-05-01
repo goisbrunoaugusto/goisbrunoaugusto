@@ -26,3 +26,9 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![Linkedin: Bruno Augusto](https://img.shields.io/badge/-BrunoAugusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-augusto-g%C3%B3is-049980246/)](https://www.linkedin.com/in/bruno-augusto-g%C3%B3is-049980246/)
 <br><br>
 
+<img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=goisbrunoaugusto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+
