@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 Olá, eu sou {Bruno Augusto}
 
-<!--
-**goisbrunoaugusto/goisbrunoaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Perfil Profissional
 
-Here are some ideas to get you started:
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando Tecnologia da Informação pela UFRN
+## 🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,c,cpp,dart)](https://skillicons.dev)
+
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=spring,flutter,react)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-brunogois902-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunogois902@gmail.com)
+[![Linkedin: Bruno Augusto](https://img.shields.io/badge/-BrunoAugusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-augusto-g%C3%B3is-049980246/)](https://www.linkedin.com/in/bruno-augusto-g%C3%B3is-049980246/)
+<br><br>
+
