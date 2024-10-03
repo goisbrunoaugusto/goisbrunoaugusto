@@ -13,7 +13,7 @@
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,jmeter,postman)](https://skillicons.dev)<br><br>
 
 ## ⚙️ GitHub Analytics
 <img
