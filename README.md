@@ -5,10 +5,10 @@
 - 🎓 Cursando Tecnologia da Informação pela UFRN
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css,c,cpp,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,dart)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,spring,flutter,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,spring,flutter)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
