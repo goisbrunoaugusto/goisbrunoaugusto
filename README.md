@@ -1,19 +1,14 @@
 # 👋 Olá, eu sou Bruno Augusto
 
-## 💼 Perfil Profissional
-
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando Tecnologia da Informação pela UFRN
-## 🚀 Habilidades
-
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,java,c,cpp,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css,c,cpp,dart)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=spring,flutter,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,spring,flutter,react)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
